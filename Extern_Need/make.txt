@@ -1,0 +1,4 @@
+g++ -c extern_need_1.cpp
+g++ -c extern_need_2.cpp
+g++ extern_need_1.o extern_need_2.o -o executable
+./executable

@@ -1,1 +1,0 @@
-gcc implement.c implement2.c

@@ -1,0 +1,4 @@
+g++ -c forward_declaration_2.cpp
+g++ -c forward_declaration_1.cpp
+g++ forward_declaration_1.o forward_declaration_2.o -o executable
+./executable
